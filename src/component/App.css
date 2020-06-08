@@ -71,3 +71,7 @@ img.stretchy {
   top: 0;
   left: 0;
 }
+
+.search-submit {
+  margin-left: 5px;
+}
